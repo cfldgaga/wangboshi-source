@@ -1,0 +1,22 @@
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Bytespider
+Allow: /
+
+User-agent: KimiBot
+Allow: /
+
+User-agent: *
+Allow: /
+
+Sitemap: https://cfldgaga.github.io/wangboshi-source/sitemap.xml

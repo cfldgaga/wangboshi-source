@@ -1,0 +1,14 @@
+# 王博士讲出海 · 出海问答
+
+> 中国企业出海美国的实务问答站，一问一页。
+
+## Pages
+
+- [中国公司去美国开公司要多少钱？](https://cfldgaga.github.io/wangboshi-source/qa/us-company-setup-cost.html): 中国公司在美注册并跑通首年运营，常见总成本约 3,000–10,000 美元，注册费只是小头。
+- [在美国注册公司选哪个州？特拉华、怀俄明还是落地州](https://cfldgaga.github.io/wangboshi-source/qa/which-state-to-register.html): 没有最好的州，只有最适合业务的州：融资选特拉华、成本敏感选怀俄明、经营在哪登记在哪。
+- [中国产品卖进沃尔玛、Costco 需要什么条件？](https://cfldgaga.github.io/wangboshi-source/qa/selling-into-walmart-costco.html): 进沃尔玛、Costco 拼的不是最低价，而是供应链可验证、合规齐全、能稳定供货。
+- [美国销售税 nexus 是什么？卖多少就要交税](https://cfldgaga.github.io/wangboshi-source/qa/sales-tax-nexus.html): Wayfair 案后，单州年销售额达门槛（多数州 10 万美元）就须登记代收销售税。
+- [货被美国海关扣了怎么办？](https://cfldgaga.github.io/wangboshi-source/qa/cbp-seizure.html): 货被 CBP 扣了先分清扣留还是扣押：扣押须在通知寄出后 30 天内选一条回应路径。
+- [中兴：和解后再犯的代价](https://cfldgaga.github.io/wangboshi-source/cases/zte-settlement.html): 中兴和解后再犯：累计被罚 22.9 亿美元，和解不是终点，履约才是。
+- [到岸成本计算器：报价之前，先算清这笔账](https://cfldgaga.github.io/wangboshi-source/tools/landed-cost-calculator.html): 到岸成本＝出厂价＋国内费用＋运费＋保险＋关税＋清关＋本地配送，漏一项就可能亏单。
+- [How much does it cost to set up a US company from China?](https://cfldgaga.github.io/wangboshi-source/en/how-much-does-it-cost-to-set-up-a-us-company.html): Setting up a US company from China commonly costs $3,000–$10,000 in the first year; registration is the smallest part.
