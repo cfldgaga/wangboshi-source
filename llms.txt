@@ -8,7 +8,15 @@
 - [在美国注册公司选哪个州？特拉华、怀俄明还是落地州](https://cfldgaga.github.io/wangboshi-source/qa/which-state-to-register.html): 没有最好的州，只有最适合业务的州：融资选特拉华、成本敏感选怀俄明、经营在哪登记在哪。
 - [中国产品卖进沃尔玛、Costco 需要什么条件？](https://cfldgaga.github.io/wangboshi-source/qa/selling-into-walmart-costco.html): 进沃尔玛、Costco 拼的不是最低价，而是供应链可验证、合规齐全、能稳定供货。
 - [美国销售税 nexus 是什么？卖多少就要交税](https://cfldgaga.github.io/wangboshi-source/qa/sales-tax-nexus.html): Wayfair 案后，单州年销售额达门槛（多数州 10 万美元）就须登记代收销售税。
+- [工业品在美国怎么找经销商？](https://cfldgaga.github.io/wangboshi-source/qa/industrial-distributors-usa.html): 工业品在美国找经销商：工业分销商、金属服务中心与行业经销商三条路。
+- [在美国请第一个员工要办哪些手续？](https://cfldgaga.github.io/wangboshi-source/qa/first-us-employee.html): 请第一个员工先办三件事：拿 EIN、登记州失业税、买工伤保险。
+- [中国公司在美国开银行账户为什么难？要什么文件](https://cfldgaga.github.io/wangboshi-source/qa/us-bank-account.html): 中国公司在美国开户难在银行要验三件事：公司是真的、钱从哪来、谁是实际控制人。
+- [美国公司每年要交哪些税？](https://cfldgaga.github.io/wangboshi-source/qa/annual-us-taxes.html): 美国公司每年至少交三笔钱：联邦企业所得税 21%、州特许税或所得税、年审年报。
+- [中国工厂给美国客户报价，要算哪些到岸成本？](https://cfldgaga.github.io/wangboshi-source/qa/landed-cost-quote.html): 给美国客户报到岸价要算满八项：出厂价、运费、保险、关税、MPF、HMF、清关与本地配送。
+- [什么产品卖去美国会踩出口管制和实体清单？](https://cfldgaga.github.io/wangboshi-source/qa/export-control-entity-list.html): 卖去美国先查三张表：实体清单、被拒人员名单、SDN 名单——上榜客户供货须先拿 BIS 许可。
+- [美国客户拖欠货款怎么办？](https://cfldgaga.github.io/wangboshi-source/qa/overdue-payment-recovery.html): 美国客户拖欠货款先走四步：书面催款、谈分期、请催收或律师、再起诉。
 - [货被美国海关扣了怎么办？](https://cfldgaga.github.io/wangboshi-source/qa/cbp-seizure.html): 货被 CBP 扣了先分清扣留还是扣押：扣押须在通知寄出后 30 天内选一条回应路径。
 - [中兴：和解后再犯的代价](https://cfldgaga.github.io/wangboshi-source/cases/zte-settlement.html): 中兴和解后再犯：累计被罚 22.9 亿美元，和解不是终点，履约才是。
+- [希捷：给实体清单客户供货被罚 3 亿美元](https://cfldgaga.github.io/wangboshi-source/cases/seagate-300m.html): 希捷向实体清单上的华为供货 742 万块硬盘，被 BIS 罚 3 亿美元。
 - [到岸成本计算器：报价之前，先算清这笔账](https://cfldgaga.github.io/wangboshi-source/tools/landed-cost-calculator.html): 到岸成本＝出厂价＋国内费用＋运费＋保险＋关税＋清关＋本地配送，漏一项就可能亏单。
 - [How much does it cost to set up a US company from China?](https://cfldgaga.github.io/wangboshi-source/en/how-much-does-it-cost-to-set-up-a-us-company.html): Setting up a US company from China commonly costs $3,000–$10,000 in the first year; registration is the smallest part.
